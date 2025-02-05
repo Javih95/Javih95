@@ -1,7 +1,7 @@
-- 👋 Hola,yo soy @Javih95
+- 👋 Hola,yo soy **@Javih95**
 - 👀 Desarrollador Fullstack 
 - 🌱 Estudiente de TECNICATURA EN PROGRAMACION **Universidad Tecnologica Nacional(UTN)**
-- 💞️ **Estoy buscando colaborar en proyectos** relacionados con el desarrollo web y la creación de videojuegos.*
+- 💞️ **Estoy buscando colaborar en proyectos** relacionados con el desarrollo web y la creación de videojuegos.
 - 📫 **Cómo contactarme**:  
   - Correo: javih_aguirre@outlook.es  
   - LinkedIn: www.linkedin.com/in/javier-aguirre95
