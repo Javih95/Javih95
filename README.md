@@ -4,7 +4,7 @@
 - 🌐**Portfolio Web**: https://javih95.github.io/Portfolio_react/
 - 💞️ **Estoy buscando colaborar en proyectos** relacionados con el desarrollo web y la creación de videojuegos.
 - 📫 **Cómo contactarme**:  
-  - Correo: javih_aguirre@outlook.es  
+  - Correo: javih.dev95@gmail.com  
   - LinkedIn: www.linkedin.com/in/javier-aguirre95
 - ⚡**Dato curioso**: Me apasiona crear videojuegos y siempre estoy aprendiendo algo nuevo, ya sea en desarrollo de software o hardware.
 
